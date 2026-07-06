@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Wei-Chen
 
-🏫 Master of Information Technology student at University of New South Wales (UNSW)<br>
+🏫 Master of Information Technology student at University of New South Wales (UNSW)<br/>
 
-💻 Passionate about Software Engineering, particularly in Cloud Computing and Cybersecurity<br>
+💻 Passionate about Software Engineering, particularly in Cloud Computing and Cybersecurity<br/>
 
-🔹 Database Engineering<br>
-🔹 Cloud Architecture<br>
-🔹 Software Engineering<br>
-🔹 Data Analytics<br>
+🔹 Database Engineering<br/>
+🔹 Cloud Architecture<br/>
+🔹 Software Engineering<br/>
+🔹 Data Analytics<br/>
 
 ## 🛠️ Tach Stack
 
