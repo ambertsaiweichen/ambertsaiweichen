@@ -1,10 +1,15 @@
 ## Hi there 👋 I'm Wei-Chen
 
 🏫 Master of Information Technology student at University of New South Wales (UNSW)<br>
+
 💻 Passionate about Software Engineering, particularly in Cloud Computing and Cybersecurity<br>
-📈 Project-based experience spanning software development, cloud computing, database engineering, cybersecurity governance, data analytics, and digital transformation.<br>
-📚 Hands-on experienced in designing scalable cloud solutions, developing data-driven applications, implementing database systems, and applying cybersecurity and governance frameworks to real-world organisational challenges.<br>
-💡 Technical Skills: Python • Java • C • C++ • Oracle SQL • MySQL • AWS • R • Power BI • Linux • Machine Learning • Figma<br>
+
+🔹 Database Engineering<br>
+🔹 Cloud Architecture<br>
+🔹 Software Engineering<br>
+🔹 Data Analytics<br>
+
+🛠️ Tech Stack: Python • Java • C • C++ • Oracle SQL • MySQL • AWS • R • Power BI • Linux • Machine Learning • Figma<br>
 
 <!--
 **ambertsaiweichen/ambertsaiweichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
