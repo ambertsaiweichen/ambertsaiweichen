@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Wei-Chen
 
+🏫 Master of Information Technology student at University of New South Wales (UNSW)
+💻 Interested in Software Engineering, particularly in Cloud Computing and Cybersecurity.
+💡 Skilled in
+
 <!--
 **ambertsaiweichen/ambertsaiweichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
